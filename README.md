@@ -187,4 +187,3 @@ Call out limitations (semantic attacks), and pair with in-model defenses & train
 
 📝 License
 
-MIT (or add your preferred license).
