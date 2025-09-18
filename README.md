@@ -1,7 +1,7 @@
 🛡️ LLM Prompt Gateway (Basic & v2)
 
 A lightweight FastAPI-based API gateway that sits in front of your LLM to provide sanitization, throttling, and security checks.
-Built for demonstrating prompt injection, model extraction, and basic defenses at BSides or training sessions.
+Built for demonstrating prompt injection, model extraction, and basic defenses.
 
 ✨ Features
 
